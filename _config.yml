@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
 title: 小橙工具箱
 description: 开箱即用
+<<<<<<< HEAD
 paginate: 1
+=======
+paginate: 5
+>>>>>>> e905c25159c85323507f4f13957b72eb7cdcdb76
 paginate_path: "/page:num/"
