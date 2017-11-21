@@ -10,11 +10,12 @@
 
 ## 一台服务器或ECS
 
-我部署试用了阿里云的[ECS优惠链接](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=jfno8su6&utm_source=jfno8su6),open-vpn的默认配置端口是1194/udp,注意一点可能需要在阿里云ECS安全组里添加白名单。
+我部署试用了阿里云 [ECS优惠链接](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=jfno8su6&utm_source=jfno8su6),open-vpn的默认配置端口是1194/udp,注意一点可能需要在阿里云ECS安全组里添加白名单。
 
 ## OPEN vpn-server & vpn-client
 
 [SETP BY SETP](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
+
 [HOW TO](https://openvpn.net/index.php/open-source/documentation/howto.html)
 
 ## 一键安装
