@@ -6,7 +6,7 @@
 
 ## 购买一台VPS
 
-Bandwagon Host(https://bwh1.net/aff.php?aff=22710&pid=56) 可以点击链接购买，价格一年200元。
+Bandwagon Host[优惠链接](https://bwh1.net/aff.php?aff=22710&pid=56) 可以点击链接购买，价格一年200元。
 购买之后进入 My Services(https://bwh1.net/clientarea.php?action=products) 点击进入 KiwiVM Control Panel 安装软件。
 
 ## 在VPS中安装ShadowsocksR Server
