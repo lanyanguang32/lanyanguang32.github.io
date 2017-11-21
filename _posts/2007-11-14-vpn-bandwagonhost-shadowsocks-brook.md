@@ -1,5 +1,5 @@
 # 自己动手科学上网
- 清单
+> 清单
 - 购买vps一台（Bandwagon Host）
 - 安装ShadowsocksR Server
 - 安装Shadowsocks-iOS Client（brook）
