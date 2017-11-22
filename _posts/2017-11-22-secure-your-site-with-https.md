@@ -17,12 +17,12 @@ HTTPS加密网站已经成为标配。商业的证书也不算贵，而且个人
 
 [SETP BY SETP](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 
-[Secure your site with HTTPS](https://support.google.com/webmasters/answer/6073543?hl=en)
-
 ## 一键安装
 
 可以使用 [certbot](https://certbot.eff.org/) 自动安装/免费续签证书 
 
 ## 其他
 
-Let's Encrypt 有效期90天可以通过定时任务自动续签
+Let's Encrypt 免费证书有效期只有90天，但是可以通过定时任务自动续签。
+
+[Secure your site with HTTPS](https://support.google.com/webmasters/answer/6073543?hl=en)
