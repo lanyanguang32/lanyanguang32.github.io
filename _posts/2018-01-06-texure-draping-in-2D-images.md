@@ -35,11 +35,11 @@
 - [Texture Design and Draping in 2D Images](http://maverick.inria.fr/Publications/2009/WOBT09/TextureDraping_EGSR_2009.pdf)
 
 ## 案例
-- ![普通的层叠替换效果](/images/11.png)
+- 普通的层叠替换效果 ![普通的层叠替换效果](/images/11.png)
 
-- ![面料褶皱替换效果](/images/22.png)
+- 面料褶皱替换效果 ![面料褶皱替换效果](/images/22.png)
 
-- ![面料扭曲替换效果](/images/33.png)
+- 面料扭曲替换效果 ![面料扭曲替换效果](/images/33.jpeg)
 
-- ![3D面料提花效果](/images/44.png)
+- 3D面料提花效果 ![3D面料提花效果](/images/44.png)
 
