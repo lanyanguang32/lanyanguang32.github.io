@@ -12,7 +12,7 @@ Bandwagon Host [优惠链接](https://bwh1.net/aff.php?aff=22710&pid=56) 可以�
 ## 在VPS中安装ShadowsocksR Server
 
 进入 KiwiVM Control Panel 控制台，左侧菜单 KiwiVM Extras 下面有个 ShadowsocksR Server 点击安装即可。
-安装之后记得把443的端口改成8388或者其他。然后有 Shadowsocks 客户端的下载链接和使用说明，不过ios的客户端安装比较复杂，国内appstore都下架了。
+安装之后记得把443的端口改成8310或者其他，有些端口用的人多了，可能不能用了。然后有 Shadowsocks 客户端的下载链接和使用说明，不过ios的客户端安装比较复杂，国内appstore都下架了。
 
 ## 安装Shadowsocks-iOS Client（brook）
 
